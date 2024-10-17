@@ -38,7 +38,7 @@ func lissajous(out io.Writer, r *rand.Rand) {
 	const (
 		cycles  = 5
 		res     = 0.001
-		size    = 100
+		size    = 250
 		nFrames = 64
 		delay   = 8
 	)
