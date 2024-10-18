@@ -6,5 +6,4 @@ import (
 
 func main() {
 	hello.SayHello()
-	hello.sayGoodBye()
 }
